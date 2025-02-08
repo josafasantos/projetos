@@ -15,6 +15,9 @@ def gerar_senha(tamanho, usar_maiusculas, usar_numeros, usar_especiais):
         caracteres += string.punctuation
 
     # Gera a senha aleatória com base nos caracteres permitidos
+    # Join concatena as letras
+    # random.choice() escolhe um caractere aleatório da string
+    # for _ in range() repete random do tamnho que foi passado no range
 
     senha = ''.join(random.choice(caracteres) for _ in range(tamanho))
     return senha
