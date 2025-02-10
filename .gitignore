@@ -1,0 +1,19 @@
+# Ignorar a pasta dataset
+datasets/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de ambiente virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos de logs e saídas temporárias
+logs/
+*.log
+
+# Ignorar arquivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
