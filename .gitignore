@@ -1,5 +1,5 @@
 # Ignorar a pasta dataset
-datasets/
+#datasets/
 
 # Ignorar arquivos temporários do sistema
 .DS_Store

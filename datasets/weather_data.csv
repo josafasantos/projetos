@@ -1,0 +1,11 @@
+Date,Temperature_C,Humidity_percent,Wind_speed_kmh,Condition
+2023-10-26,25,70,15,Sunny
+2023-10-27,23,75,10,Cloudy
+2023-10-28,26,65,20,Sunny
+2023-10-29,22,80,5,Rainy
+2023-10-30,24,72,12,Partly Cloudy
+2023-10-31,27,68,18,Sunny
+2023-11-01,21,85,8,Rainy
+2023-11-02,25,70,16,Sunny
+2023-11-03,24,73,14,Cloudy
+2023-11-04,26,67,22,Sunny

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Alice",
+    "idade": 30,
+    "cidade": "São Paulo",
+    "telefones": ["11-1234-5678", "11-9987-6543"]
+  },
+  {
+    "id": 2,
+    "nome": "Bob",
+    "idade": 25,
+    "cidade": "Rio de Janeiro",
+    "telefones": ["21-4321-8765"]
+  },
+  {
+    "id": 3,
+    "nome": "Charlie",
+    "idade": 35,
+    "cidade": "Belo Horizonte",
+    "telefones": []
+  }
+]
