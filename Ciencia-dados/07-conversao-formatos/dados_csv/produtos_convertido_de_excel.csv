@@ -1,0 +1,51 @@
+Produto,Categoria,Preço
+Maçã,Fruta,2.5
+Banana,Fruta,3.0
+Laranja,Fruta,2.0
+Morango,Fruta,8.0
+Alface,Verdura,4.0
+Tomate,Verdura,5.5
+Cenoura,Legume,3.0
+Batata,Legume,2.8
+Arroz,Grão,20.0
+Feijão,Grão,15.0
+Macarrão,Massa,4.5
+Pão de Forma,Padaria,7.0
+Leite Integral,Laticínio,4.8
+Queijo Mussarela,Laticínio,35.0
+Iogurte Natural,Laticínio,2.5
+Frango Congelado,Carne,18.0
+Carne Bovina,Carne,45.0
+Ovo,Proteína,12.0
+Camiseta Básica,Vestuário,30.0
+Calça Jeans,Vestuário,80.0
+Tênis Esportivo,Calçado,150.0
+Shampoo,Higiene Pessoal,15.0
+Sabonete em Barra,Higiene Pessoal,2.0
+Escova de Dentes,Higiene Pessoal,6.0
+Detergente,Limpeza,8.0
+Água Sanitária,Limpeza,5.0
+Papel Higiênico,Limpeza,12.0
+Livro de Romance,Livro,35.0
+Caderno Universitário,Material Escolar,15.0
+Caneta Esferográfica,Material Escolar,1.5
+Mochila Escolar,Material Escolar,60.0
+Smartphone,Eletrônico,1200.0
+Fone de Ouvido,Eletrônico,50.0
+Carregador de Celular,Eletrônico,30.0
+Mesa de Jantar,Móvel,300.0
+Cadeira de Escritório,Móvel,200.0
+Sofá de 2 Lugares,Móvel,800.0
+Planta Suculenta,Jardinagem,10.0
+Vaso de Flores,Jardinagem,25.0
+Adubo Orgânico,Jardinagem,15.0
+Biscoito de Chocolate,Snack,6.0
+Refrigerante,Bebida,7.0
+Suco de Laranja,Bebida,8.5
+Café em Grão,Bebida,25.0
+Azeite de Oliva,Condimento,28.0
+Vinagre,Condimento,5.0
+Sal,Condimento,2.0
+Açúcar,Ingrediente,3.0
+Farinha de Trigo,Ingrediente,4.0
+Fermento Biológico,Ingrediente,2.5
