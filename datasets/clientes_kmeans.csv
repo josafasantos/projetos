@@ -1,0 +1,201 @@
+customer_id,valor_total_compras,frequencia_compras,recencia_ultima_compra,categoria_produto_preferida
+1,125,2,300,Eletrônicos
+2,150,3,299,Roupas
+3,175,4,298,Casa e Decoração
+4,200,5,297,Livros
+5,225,6,296,Cosméticos
+6,250,7,295,Eletrônicos
+7,275,8,294,Roupas
+8,300,9,293,Casa e Decoração
+9,325,10,292,Livros
+10,350,1,291,Cosméticos
+11,375,2,290,Eletrônicos
+12,400,3,289,Roupas
+13,425,4,288,Casa e Decoração
+14,450,5,287,Livros
+15,475,6,286,Cosméticos
+16,500,7,285,Eletrônicos
+17,525,8,284,Roupas
+18,550,9,283,Casa e Decoração
+19,575,10,282,Livros
+20,600,1,281,Cosméticos
+21,625,2,280,Eletrônicos
+22,650,3,279,Roupas
+23,675,4,278,Casa e Decoração
+24,700,5,277,Livros
+25,725,6,276,Cosméticos
+26,750,7,275,Eletrônicos
+27,775,8,274,Roupas
+28,800,9,273,Casa e Decoração
+29,825,10,272,Livros
+30,850,1,271,Cosméticos
+31,875,2,270,Eletrônicos
+32,900,3,269,Roupas
+33,925,4,268,Casa e Decoração
+34,950,5,267,Livros
+35,975,6,266,Cosméticos
+36,1000,7,265,Eletrônicos
+37,1025,8,264,Roupas
+38,1050,9,263,Casa e Decoração
+39,1075,10,262,Livros
+40,1100,1,261,Cosméticos
+41,1125,2,260,Eletrônicos
+42,1150,3,259,Roupas
+43,1175,4,258,Casa e Decoração
+44,1200,5,257,Livros
+45,1225,6,256,Cosméticos
+46,1250,7,255,Eletrônicos
+47,1275,8,254,Roupas
+48,1300,9,253,Casa e Decoração
+49,1325,10,252,Livros
+50,1350,1,251,Cosméticos
+51,1375,2,250,Eletrônicos
+52,1400,3,249,Roupas
+53,1425,4,248,Casa e Decoração
+54,1450,5,247,Livros
+55,1475,6,246,Cosméticos
+56,1500,7,245,Eletrônicos
+57,1525,8,244,Roupas
+58,1550,9,243,Casa e Decoração
+59,1575,10,242,Livros
+60,1600,1,241,Cosméticos
+61,1625,2,240,Eletrônicos
+62,1650,3,239,Roupas
+63,1675,4,238,Casa e Decoração
+64,1700,5,237,Livros
+65,1725,6,236,Cosméticos
+66,1750,7,235,Eletrônicos
+67,1775,8,234,Roupas
+68,1800,9,233,Casa e Decoração
+69,1825,10,232,Livros
+70,1850,1,231,Cosméticos
+71,1875,2,230,Eletrônicos
+72,1900,3,229,Roupas
+73,1925,4,228,Casa e Decoração
+74,1950,5,227,Livros
+75,1975,6,226,Cosméticos
+76,2000,7,225,Eletrônicos
+77,2025,8,224,Roupas
+78,2050,9,223,Casa e Decoração
+79,2075,10,222,Livros
+80,2100,1,221,Cosméticos
+81,2125,2,220,Eletrônicos
+82,2150,3,219,Roupas
+83,2175,4,218,Casa e Decoração
+84,2200,5,217,Livros
+85,2225,6,216,Cosméticos
+86,2250,7,215,Eletrônicos
+87,2275,8,214,Roupas
+88,2300,9,213,Casa e Decoração
+89,2325,10,212,Livros
+90,2350,1,211,Cosméticos
+91,2375,2,210,Eletrônicos
+92,2400,3,209,Roupas
+93,2425,4,208,Casa e Decoração
+94,2450,5,207,Livros
+95,2475,6,206,Cosméticos
+96,2500,7,205,Eletrônicos
+97,2525,8,204,Roupas
+98,2550,9,203,Casa e Decoração
+99,2575,10,202,Livros
+100,2600,1,201,Cosméticos
+101,2625,2,200,Eletrônicos
+102,2650,3,199,Roupas
+103,2675,4,198,Casa e Decoração
+104,2700,5,197,Livros
+105,2725,6,196,Cosméticos
+106,2750,7,195,Eletrônicos
+107,2775,8,194,Roupas
+108,2800,9,193,Casa e Decoração
+109,2825,10,192,Livros
+110,2850,1,191,Cosméticos
+111,2875,2,190,Eletrônicos
+112,2900,3,189,Roupas
+113,2925,4,188,Casa e Decoração
+114,2950,5,187,Livros
+115,2975,6,186,Cosméticos
+116,3000,7,185,Eletrônicos
+117,3025,8,184,Roupas
+118,3050,9,183,Casa e Decoração
+119,3075,10,182,Livros
+120,3100,1,181,Cosméticos
+121,3125,2,180,Eletrônicos
+122,3150,3,179,Roupas
+123,3175,4,178,Casa e Decoração
+124,3200,5,177,Livros
+125,3225,6,176,Cosméticos
+126,3250,7,175,Eletrônicos
+127,3275,8,174,Roupas
+128,3300,9,173,Casa e Decoração
+129,3325,10,172,Livros
+130,3350,1,171,Cosméticos
+131,3375,2,170,Eletrônicos
+132,3400,3,169,Roupas
+133,3425,4,168,Casa e Decoração
+134,3450,5,167,Livros
+135,3475,6,166,Cosméticos
+136,3500,7,165,Eletrônicos
+137,3525,8,164,Roupas
+138,3550,9,163,Casa e Decoração
+139,3575,10,162,Livros
+140,3600,1,161,Cosméticos
+141,3625,2,160,Eletrônicos
+142,3650,3,159,Roupas
+143,3675,4,158,Casa e Decoração
+144,3700,5,157,Livros
+145,3725,6,156,Cosméticos
+146,3750,7,155,Eletrônicos
+147,3775,8,154,Roupas
+148,3800,9,153,Casa e Decoração
+149,3825,10,152,Livros
+150,3850,1,151,Cosméticos
+151,3875,2,150,Eletrônicos
+152,3900,3,149,Roupas
+153,3925,4,148,Casa e Decoração
+154,3950,5,147,Livros
+155,3975,6,146,Cosméticos
+156,4000,7,145,Eletrônicos
+157,4025,8,144,Roupas
+158,4050,9,143,Casa e Decoração
+159,4075,10,142,Livros
+160,4100,1,141,Cosméticos
+161,4125,2,140,Eletrônicos
+162,4150,3,139,Roupas
+163,4175,4,138,Casa e Decoração
+164,4200,5,137,Livros
+165,4225,6,136,Cosméticos
+166,4250,7,135,Eletrônicos
+167,4275,8,134,Roupas
+168,4300,9,133,Casa e Decoração
+169,4325,10,132,Livros
+170,4350,1,131,Cosméticos
+171,4375,2,130,Eletrônicos
+172,4400,3,129,Roupas
+173,4425,4,128,Casa e Decoração
+174,4450,5,127,Livros
+175,4475,6,126,Cosméticos
+176,4500,7,125,Eletrônicos
+177,4525,8,124,Roupas
+178,4550,9,123,Casa e Decoração
+179,4575,10,122,Livros
+180,4600,1,121,Cosméticos
+181,4625,2,120,Eletrônicos
+182,4650,3,119,Roupas
+183,4675,4,118,Casa e Decoração
+184,4700,5,117,Livros
+185,4725,6,116,Cosméticos
+186,4750,7,115,Eletrônicos
+187,4775,8,114,Roupas
+188,4800,9,113,Casa e Decoração
+189,4825,10,112,Livros
+190,4850,1,111,Cosméticos
+191,4875,2,110,Eletrônicos
+192,4900,3,109,Roupas
+193,4925,4,108,Casa e Decoração
+194,4950,5,107,Livros
+195,4975,6,106,Cosméticos
+196,5000,7,105,Eletrônicos
+197,5025,8,104,Roupas
+198,5050,9,103,Casa e Decoração
+199,5075,10,102,Livros
+200,5100,1,101,Cosméticos

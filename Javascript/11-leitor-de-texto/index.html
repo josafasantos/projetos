@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Leitor de Texto</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      textarea {
+        width: 100%;
+        max-width: 600px;
+      }
+      button {
+        margin: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Leitor de Texto</h1>
+    <textarea id="text" rows="10" placeholder="Digite o texto aqui...">
+Este é um exemplo de texto para ser lido utilizando a síntese de voz do navegador. Você pode substituir este texto pelo conteúdo que desejar.
+  </textarea
+    >
+    <br />
+    <button onclick="startReading()">Ler</button>
+    <button onclick="stopReading()">Parar</button>
+    <button onclick="skipBackward()">Retornar 10seg</button>
+    <button onclick="pauseReading()">Pausar</button>
+    <button onclick="resumeReading()">Continuar</button>
+    <button onclick="skipForward()">Avançar 10seg</button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
