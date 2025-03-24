@@ -5,7 +5,8 @@ import joblib
 import numpy as np
 
 
-# Inicializa o FastAPI
+# Inicializa o FastAPI com a biblioteca uvicorn
+# pip install uvicorn
 app = FastAPI()
 model = joblib.load(r'C:\Users\josaf\Documents\Aulas\aulas\Ciencia-dados\35-deploy-modelo-api-ml\app\model.joblib')
 
